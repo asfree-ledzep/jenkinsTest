@@ -19,7 +19,7 @@ public class MainController {
 	
 	@RequestMapping("/")
 	public String main() {
-		System.out.println("///////////////////////");
+		System.out.println("********");
 		return "main"; //main.jsp 
 	}
 	
