@@ -15,8 +15,7 @@ import com.example.service.DBService;
 public class MainController {
 	@Autowired
 	DBService service;
-	
-	
+		
 	
 	
 	
